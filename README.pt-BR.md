@@ -71,4 +71,4 @@ Se quiser contribuir, fique à vontade para abrir um **pull request** ou relatar
 
 Este projeto é licenciado sob a [MIT License](LICENSE.md).  
 
-📌 **Mantenha-se atualizado!** Novos algoritmos serão adicionados toda semana. 🚀  
+📌 **Mantenha-se atualizado!**
